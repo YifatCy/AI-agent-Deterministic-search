@@ -3,7 +3,7 @@ import random
 import math
 import utils
 
-ids = ["204585301", "311156327"]
+ids = ["1", "1"]
 
 
 class MedicalProblem(search.Problem):
