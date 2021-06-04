@@ -1,0 +1,5 @@
+['204585301', '311156327']
+GBFS  (3, 0.0004839897155761719, [(('vaccinate', (0, 1)), ('quarantine', (0, 2))), (('vaccinate', (1, 0)), ('quarantine', (1, 2))), (('vaccinate', (2, 1)), ('quarantine', (0, 3)))])
+GBFS  (6, 0.0010578632354736328, [(('vaccinate', (0, 1)), ('quarantine', (0, 2))), (('vaccinate', (1, 0)), ('quarantine', (1, 2))), (('vaccinate', (2, 1)), ('quarantine', (0, 3))), (('vaccinate', (0, 2)), ('quarantine', (1, 4))), (('vaccinate', (0, 4)), ('quarantine', (3, 3))), (('vaccinate', (0, 3)), ('quarantine', (3, 4)))])
+GBFS  (2, 0.0002830028533935547, [(('vaccinate', (0, 1)), ('vaccinate', (0, 3)), ('quarantine', (0, 2)), ('quarantine', (1, 3))), (('vaccinate', (1, 0)), ('vaccinate', (1, 2)), ('quarantine', (0, 4)), ('quarantine', (1, 4)))])
+GBFS  (3, 0.0012018680572509766, [(('vaccinate', (0, 1)), ('quarantine', (0, 4)), ('quarantine', (1, 3))), (('vaccinate', (0, 5)), ('quarantine', (1, 2)), ('quarantine', (4, 3))), (('vaccinate', (1, 0)), ('quarantine', (0, 3)), ('quarantine', (4, 2)))])
